@@ -33,7 +33,8 @@
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
-    "web": "expo start --web --clear"
+    "web": "expo start --web --clear",
+    "build": "expo export --platform web"
   },
   "private": true
 }
